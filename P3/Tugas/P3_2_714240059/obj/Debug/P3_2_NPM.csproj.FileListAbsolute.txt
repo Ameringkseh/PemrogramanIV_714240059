@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\bin\Debug\P3_2_NPM.exe.config
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\bin\Debug\P3_2_NPM.exe
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\bin\Debug\P3_2_NPM.pdb
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\obj\Debug\P3_2_NPM.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\obj\Debug\P3_2_NPM.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\obj\Debug\P3_2_NPM.exe
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\obj\Debug\P3_2_NPM.pdb
+C:\Users\USER\Documents\Network Programming\P3_2_714240059\obj\Debug\P3_2_NPM.exe.config

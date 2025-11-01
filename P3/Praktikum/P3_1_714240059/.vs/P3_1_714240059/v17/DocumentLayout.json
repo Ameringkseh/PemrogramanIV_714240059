@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Network Programming\\P3_1_714240059\\",
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\PemrogramanIV_714240059\\P3\\Praktikum\\P3_1_714240059\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1B773715-3E1A-40EE-BE7B-D09DDC6C212B}|P3_1_714240059.csproj|c:\\users\\user\\documents\\network programming\\p3_1_714240059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1B773715-3E1A-40EE-BE7B-D09DDC6C212B}|P3_1_714240059.csproj|c:\\users\\user\\documents\\pemrogramaniv_714240059\\p3\\praktikum\\p3_1_714240059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1B773715-3E1A-40EE-BE7B-D09DDC6C212B}|P3_1_714240059.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P3_1_714240059\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PemrogramanIV_714240059\\P3\\Praktikum\\P3_1_714240059\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P3_1_714240059\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PemrogramanIV_714240059\\P3\\Praktikum\\P3_1_714240059\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwBUAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-27T08:44:03.869Z",
               "EditorCaption": ""
