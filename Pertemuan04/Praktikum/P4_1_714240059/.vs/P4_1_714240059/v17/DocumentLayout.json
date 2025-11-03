@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_1_714240059\\producttest_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|solutionrelative:producttest_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_1_714240059\\dvd_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|solutionrelative:dvd_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_1_714240059\\book_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|solutionrelative:book_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_1_714240059\\product_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD7B35E4-0DF2-40E6-BD21-0318A7BF1D0E}|P4_1_714240059.csproj|solutionrelative:product_714240059.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DVD_714240059.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\DVD_714240059.cs",
+              "RelativeDocumentMoniker": "DVD_714240059.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\DVD_714240059.cs",
+              "RelativeToolTip": "DVD_714240059.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T09:10:48.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book_714240059.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\Book_714240059.cs",
+              "RelativeDocumentMoniker": "Book_714240059.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\Book_714240059.cs",
+              "RelativeToolTip": "Book_714240059.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T08:46:03.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product_714240059.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\Product_714240059.cs",
+              "RelativeDocumentMoniker": "Product_714240059.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\Product_714240059.cs",
+              "RelativeToolTip": "Product_714240059.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:57:16.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTest_714240059.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\ProductTest_714240059.cs",
+              "RelativeDocumentMoniker": "ProductTest_714240059.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_1_714240059\\ProductTest_714240059.cs",
+              "RelativeToolTip": "ProductTest_714240059.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T07:56:18.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

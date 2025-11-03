@@ -1,0 +1,31 @@
+14. Jelaskan mengapa pesan kesalahan tersebut muncul!
+    Karena field myType yang ada di class Product_714240059 dideklarasikan sebagai protected, 
+    yang berarti field tersebut hanya bisa diakses di dalam kelasnya sendiri atau kelas turunan.
+    sedangkan sebelumnya kita ingin mengakses di class yang berbeda dan bukan class turunannya maka dari itu terjadilah error tersebut.
+    Solusinya adalah dengan mengubah deklarasi protected yang ada di class Product_714240059 menjadi public seperti di bawah ini:
+    before, protected string myType = "Book";
+    after, public string myType = "Book";
+
+19. Perhatikan hasil yang muncul dilayar, kenapa bisa seperti itu?
+    karena saat kita memanggil properti myType tidak disertakan dengan pemberian nilai sehingga program akan menyatakannya sebagai default (Null),
+    maka ketika di debug tidak akan muncul nilai atau kosong di dalam consolenya.
+
+24. Jelaskan mengapa yang muncul dilayar adalah kata tersebut!
+    karena kita mendeklarasikan atau memberi nilai kepada MyType sebagai DVD, 
+    maka ketika kita memanggil Console.WriteLine(myProduct.MyType); akan muncul DVD sebagai nilai dari MyType.
+
+8.  Jelaskan mengapa tipe dan title dari buku tersebut tidak muncul! Apakah istilah dalam
+    konsep OOP yang mendefinisikan fenomena seperti ini?
+    karena konstruktor kelas Book_714240059 (kelas anak) tidak pernah memberikan nilai tersebut ke kelas Product_714240059 (kelas induk).
+    Istilah dalam konsep OOPnya:
+    -Inheritance (Pewarisan): Ini adalah konsep dasarnya, di mana kelas Book (anak) mewarisi properti (MyType, MyTitle) dan metode dari kelas Product (induk).
+    -Base Class Constructor (Konstruktor Kelas Basis/Induk): Ini adalah istilah kunci untuk masalah yang terjadi. Saat Anda membuat objek dari kelas anak (Book), konstruktor kelas induk (Product) juga harus dipanggil untuk menginisialisasi properti milik induk.
+
+12. Perhatikan hasil yang muncul dilayar, jelaskan mengapa saat ini tipe dan judul buku
+    tampil pada output!
+    karena kita memberikan konstruksi : base(type, title) yang memberi tahu C# untuk "Sebelum menjalankan kode di dalam konstruktor Book ini, jalankan terlebih dahulu konstruktor di kelas base (Product) dan berikan nilai type dan title ini kepadanya."
+    Dengan cara ini, konstruktor Product akan mengurus MyType dan MyTitle, sementara konstruktor Book mengurus pageCount.
+
+19. Mengapa objek product2 tidak dibuat seperti product1 atau seperti gambar yang
+    ditandai di bawah?
+    karena pada product1 dibuat untuk menerima type dan title dari luar dan diteruskan ke konstruktor induk (base) untuk diinisialisasi, sedangkan pada product2, type dan title dibuat dan diinisialisasi langsung di dalam methodnya sehingga tidak perlu memanggil konstruktor base.
