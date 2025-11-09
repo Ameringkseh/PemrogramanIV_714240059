@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_2_714240059\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_2_714240059\\podcastepisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|solutionrelative:podcastepisode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_2_714240059\\mediaaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|solutionrelative:mediaaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|c:\\users\\user\\documents\\network programming\\p4_2_714240059\\lagu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FABCB-B2B0-49C5-BA9F-238C7DDA554B}|P4_2_714240059.csproj|solutionrelative:lagu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PodcastEpisode.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\PodcastEpisode.cs",
+              "RelativeDocumentMoniker": "PodcastEpisode.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\PodcastEpisode.cs",
+              "RelativeToolTip": "PodcastEpisode.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:17:08.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MediaAudio.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\MediaAudio.cs",
+              "RelativeDocumentMoniker": "MediaAudio.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\MediaAudio.cs",
+              "RelativeToolTip": "MediaAudio.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:15:26.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lagu.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\Lagu.cs",
+              "RelativeDocumentMoniker": "Lagu.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\Lagu.cs",
+              "RelativeToolTip": "Lagu.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:14:38.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\Network Programming\\P4_2_714240059\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T16:13:23.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
