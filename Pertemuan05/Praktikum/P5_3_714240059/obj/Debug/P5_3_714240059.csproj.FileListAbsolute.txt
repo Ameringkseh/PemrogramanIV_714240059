@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\bin\Debug\P5_3_714240059.exe.config
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\bin\Debug\P5_3_714240059.exe
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\bin\Debug\P5_3_714240059.pdb
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.Form1.resources
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.Properties.Resources.resources
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.csproj.GenerateResource.cache
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.exe
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.pdb
+C:\Users\USER\Documents\Network Programming\P5_3_714240059\obj\Debug\P5_3_714240059.exe.config
