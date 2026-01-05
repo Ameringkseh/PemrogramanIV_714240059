@@ -1,0 +1,437 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|c:\\users\\user\\documents\\pbo network programming\\tugas13\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formtransaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formnilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\lib\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:lib\\excel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\packages\\EPPlus.8.4.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\EPPlus.8.4.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:controller\\ceklogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:controller\\koneksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\parentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\parentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\formbarang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:controller\\barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:model\\m_barang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:controller\\transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\m_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:model\\m_transaksi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:controller\\nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:model\\m_nilai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFA7B3FF-8BAF-4584-BD55-102A786F2449}|P9_714240059.csproj|solutionrelative:view\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormNilai.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormNilai.cs [Design]",
+              "RelativeToolTip": "view\\FormNilai.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:55:54.646Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormTransaksi.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormTransaksi.cs [Design]",
+              "RelativeToolTip": "view\\FormTransaksi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T15:54:00.081Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormNilai.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormNilai.cs",
+              "RelativeDocumentMoniker": "view\\FormNilai.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormNilai.cs",
+              "RelativeToolTip": "view\\FormNilai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:24:53.319Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormTransaksi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormTransaksi.cs",
+              "RelativeDocumentMoniker": "view\\FormTransaksi.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormTransaksi.cs",
+              "RelativeToolTip": "view\\FormTransaksi.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAlwNkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:30:44.497Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\ParentForm.Designer.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\ParentForm.Designer.cs",
+              "RelativeToolTip": "view\\ParentForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:05:47.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CekLogin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\CekLogin.cs",
+              "RelativeDocumentMoniker": "controller\\CekLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\CekLogin.cs",
+              "RelativeToolTip": "controller\\CekLogin.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:14:27.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:24:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "view\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Praktikum 13\\view\\FormLogin.cs [Design]",
+              "RelativeToolTip": "..\\Praktikum 13\\view\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:07:37.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\packages\\EPPlus.8.4.0\\readme.txt",
+              "RelativeDocumentMoniker": "packages\\EPPlus.8.4.0\\readme.txt",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\packages\\EPPlus.8.4.0\\readme.txt",
+              "RelativeToolTip": "packages\\EPPlus.8.4.0\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-01-05T07:20:10.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Excel.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\lib\\Excel.cs",
+              "RelativeDocumentMoniker": "lib\\Excel.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\lib\\Excel.cs",
+              "RelativeToolTip": "lib\\Excel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-05T07:30:58.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormLogin.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormLogin.cs",
+              "RelativeDocumentMoniker": "view\\FormLogin.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormLogin.cs",
+              "RelativeToolTip": "view\\FormLogin.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:15:49.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "view\\StartUp.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\StartUp.cs",
+              "RelativeToolTip": "view\\StartUp.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAApwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T09:03:27.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\StartUp.cs",
+              "RelativeDocumentMoniker": "view\\StartUp.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Praktikum 13\\view\\StartUp.cs [Design]",
+              "RelativeToolTip": "..\\Praktikum 13\\view\\StartUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-29T08:56:10.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Praktikum 13\\view\\ParentForm.cs [Design]",
+              "RelativeToolTip": "..\\Praktikum 13\\view\\ParentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:47:50.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Koneksi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Koneksi.cs",
+              "RelativeDocumentMoniker": "controller\\Koneksi.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Koneksi.cs",
+              "RelativeToolTip": "controller\\Koneksi.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAqwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:43:24.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ParentForm.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\ParentForm.cs",
+              "RelativeDocumentMoniker": "view\\ParentForm.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\ParentForm.cs",
+              "RelativeToolTip": "view\\ParentForm.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAuwDgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:49:40.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormBarang.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormBarang.cs",
+              "RelativeToolTip": "view\\FormBarang.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwBwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:18:10.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBarang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\FormBarang.cs",
+              "RelativeDocumentMoniker": "view\\FormBarang.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Praktikum 13\\view\\FormBarang.cs [Design]",
+              "RelativeToolTip": "..\\Praktikum 13\\view\\FormBarang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:34:12.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Barang.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Barang.cs",
+              "RelativeDocumentMoniker": "controller\\Barang.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Barang.cs",
+              "RelativeToolTip": "controller\\Barang.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwBAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:53:13.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "M_barang.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\M_barang.cs",
+              "RelativeDocumentMoniker": "model\\M_barang.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\M_barang.cs",
+              "RelativeToolTip": "model\\M_barang.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T11:11:02.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Transaksi.cs",
+              "RelativeDocumentMoniker": "controller\\Transaksi.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Transaksi.cs",
+              "RelativeToolTip": "controller\\Transaksi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:20:11.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "M_transaksi.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\M_transaksi.cs",
+              "RelativeDocumentMoniker": "model\\M_transaksi.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\M_transaksi.cs",
+              "RelativeToolTip": "model\\M_transaksi.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T16:18:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Nilai.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Nilai.cs",
+              "RelativeDocumentMoniker": "controller\\Nilai.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\controller\\Nilai.cs",
+              "RelativeToolTip": "controller\\Nilai.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:18:37.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "M_nilai.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\M_nilai.cs",
+              "RelativeDocumentMoniker": "model\\M_nilai.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\model\\M_nilai.cs",
+              "RelativeToolTip": "model\\M_nilai.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:17:49.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Praktikum 13\\view\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Praktikum 13\\view\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:27:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\Form1.cs",
+              "RelativeDocumentMoniker": "view\\Form1.cs",
+              "ToolTip": "C:\\Users\\USER\\Documents\\PBO Network Programming\\Tugas13\\view\\Form1.cs",
+              "RelativeToolTip": "view\\Form1.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T06:29:46.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
